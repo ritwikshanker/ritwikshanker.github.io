@@ -1,5 +1,3 @@
-# ritwikshanker.github.io
-
 <h1 align="center">Hi 👋, I'm Ritwik</h1>
 <h3 align="center">A Computer Science undergraduate who loves competitive programming with experience in the field of Android Development.</h3>
 
